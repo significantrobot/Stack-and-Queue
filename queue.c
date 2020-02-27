@@ -1,14 +1,3 @@
-
-/**********************************************
-*YANIV LEVY
-*T.Z.316464817
-*Group 01 (Computer Science)
-*ass05
-*File: queue.c
-
-**********************************************/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
