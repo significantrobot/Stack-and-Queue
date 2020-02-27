@@ -1,12 +1,3 @@
-/************************************************
-*YANIV LEVY
-*T.Z.316464817
-*Group 01 (Computer Science)
-*ass05
-*File: strings.c
-
-*************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "strings.h"
